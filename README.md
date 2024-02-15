@@ -1,6 +1,6 @@
 ### About Me
 - 👋 Hi, I'm MARIA BAMBINA, a passionate Data Analyst with a keen interest in transforming raw data into meaningful insights.
-- 🎓 I hold a degree in Bachelors of Commerce with CA (Computer Application)
+- 🎓 I hold a degree in Bachelors of Commerce Computer Application
 - 🎓 Currently pursuing my career in Data Science and Analytics at IMARTICUS Learning,Coimbatore.
 
 ### Skills
